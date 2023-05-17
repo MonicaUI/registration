@@ -1,3 +1,6 @@
+# App has been deployed in Versal
+ https://registration-smoky.vercel.app/
+
 # Assignment: Building a User Registration Form
 
 Your task is to create a user registration form using HTML, CSS3, Node.js, and ES6. The form should include the following fields:

@@ -31,10 +31,6 @@ body {
     width: 600px;
 }
 
-fieldset {
-    margin: 20px;
-}
-
 .registration-form-header {
     text-align: center;
     background-color: var(--bg-color);
@@ -142,7 +138,10 @@ fieldset {
     color: var(--primary-color);
 }
 
-@media only screen and (max-width: 400px) {
+@media screen and (max-width: 520px) {
+    body  {
+        width: 100%;
+    }
     .registration-form-header,
     #registration-form {
         width: 100%;
